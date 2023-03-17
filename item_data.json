@@ -1,0 +1,198 @@
+[
+  {
+    "id": 100,
+    "name": "axe",
+    "type": 0,
+    "sprite_name": "Axe",
+    "sell_price": 1000
+  },
+  {
+    "id": 101,
+    "name": "sword",
+    "type": 0,
+    "sprite_name": "Iron Sword",
+    "sell_price": 1100
+  },
+  {
+    "id": 102,
+    "name": "wand",
+    "type": 0,
+    "sprite_name": "Magic Wand",
+    "sell_price": 1000
+  },
+  {
+    "id": 103,
+    "name": "staff",
+    "type": 0,
+    "sprite_name": "Emerald Staff",
+    "sell_price": 1300
+  },
+  {
+    "id": 104,
+    "name": "Iron Armor",
+    "type": 1,
+    "sprite_name": "Iron Armor",
+    "sell_price": 600
+  },
+  {
+    "id": 105,
+    "name": "Iron Boot",
+    "type": 1,
+    "sprite_name": "Iron Boot",
+    "sell_price": 600
+  },
+  {
+    "id": 106,
+    "name": "Iron Helmet",
+    "type": 1,
+    "sprite_name": "Iron Helmet",
+    "sell_price": 600
+  },
+  {
+    "id": 107,
+    "name": "Leather Armor",
+    "type": 1,
+    "sprite_name": "Leather Armor",
+    "sell_price": 1000
+  },
+  {
+    "id": 108,
+    "name": "Leather Boot",
+    "type": 1,
+    "sprite_name": "Leather Boot",
+    "sell_price": 1000
+  },
+  {
+    "id": 109,
+    "name": "Leather Helmet",
+    "type": 1,
+    "sprite_name": "Leather Helmet",
+    "sell_price": 1000
+  },
+  {
+    "id": 110,
+    "name": "Wizard Hat",
+    "type": 1,
+    "sprite_name": "Wizard Hat",
+    "sell_price": 800
+  },
+  {
+    "id": 111,
+    "name": "crystal",
+    "type": 2,
+    "sprite_name": "Crystal",
+    "sell_price": 500
+  },
+  {
+    "id": 112,
+    "name": "green gem",
+    "type": 2,
+    "sprite_name": "Cut Emerald",
+    "sell_price": 600
+  },
+  {
+    "id": 113,
+    "name": "red gem",
+    "type": 2,
+    "sprite_name": "Cut Ruby",
+    "sell_price": 600
+  },
+  {
+    "id": 114,
+    "name": "blue gem",
+    "type": 2,
+    "sprite_name": "Cut Sapphire",
+    "sell_price": 600
+  },
+  {
+    "id": 115,
+    "name": "diamond",
+    "type": 2,
+    "sprite_name": "Diamond",
+    "sell_price": 900
+  },
+  {
+    "id": 116,
+    "name": "mana potion 30",
+    "type": 3,
+    "sprite_name": "Blue Potion",
+    "sell_price": 50
+  },
+  {
+    "id": 117,
+    "name": "mana potion 100",
+    "type": 3,
+    "sprite_name": "Blue Potion 2",
+    "sell_price": 100
+  },
+  {
+    "id": 118,
+    "name": "heal potion 30",
+    "type": 3,
+    "sprite_name": "Red Potion",
+    "sell_price": 50
+  },
+  {
+    "id": 119,
+    "name": "heal potion 30",
+    "type": 3,
+    "sprite_name": "Red Potion 2",
+    "sell_price": 100
+  },
+  {
+    "id": 120,
+    "name": "wood",
+    "type": 4,
+    "sprite_name": "Wood Log",
+    "sell_price": 50
+  },
+  {
+    "id": 121,
+    "name": "rope",
+    "type": 4,
+    "sprite_name": "Rope",
+    "sell_price": 50
+  },
+  {
+    "id": 122,
+    "name": "paper",
+    "type": 4,
+    "sprite_name": "Paper",
+    "sell_price": 50
+  },
+  {
+    "id": 123,
+    "name": "fabric",
+    "type": 4,
+    "sprite_name": "Fabric",
+    "sell_price": 50
+  },
+  {
+    "id": 124,
+    "name": "book",
+    "type": 5,
+    "sprite_name": "Book",
+    "sell_price": -1
+  },
+  {
+    "id": 125,
+    "name": "golden key",
+    "type": 5,
+    "sprite_name": "Golden Key",
+    "sell_price": -1
+  },
+  {
+    "id": 126,
+    "name": "silver key",
+    "type": 5,
+    "sprite_name": "Silver Key",
+    "sell_price": -1
+  },
+  {
+    "id": 127,
+    "name": "map",
+    "type": 5,
+    "sprite_name": "Map",
+    "sell_price": -1
+  }
+]
